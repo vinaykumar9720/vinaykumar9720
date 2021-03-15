@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vinay
 - 👀 I’m interested in print('data'*∞)
 - 🌱 I’m skilled in Python, Pandas, Webscraping, MySql, Ms Excel, PowerBI, Tableau and currently learning Machine Learning
-- 💞️ I’m Here to share my projects on Data Analytics..
+- 💞️ I’m Here to work with my projects on Data Analytics..
 - 📫 You can reach me at vinay230317@gmail.com ..
 
 <!---
